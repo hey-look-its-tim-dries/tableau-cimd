@@ -1,0 +1,16 @@
+{
+  "client_id": "https://hey-look-its-tim-dries.github.io/tableau-cimd/copilot-studio.json",
+  "client_name": "Copilot Studio - client-han-oauth (Biztory demo)",
+  "client_uri": "https://www.biztory.com",
+  "redirect_uris": [
+    "https://global.consent.azure-apim.net/redirect/cr675-5fmcp-20tableau-20com-20handmatig-5fe88312607b77cc68"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
