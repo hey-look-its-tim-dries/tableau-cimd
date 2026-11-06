@@ -3,8 +3,7 @@
   "client_name": "Copilot Studio - client-han-oauth (Biztory demo)",
   "client_uri": "https://www.biztory.com",
   "redirect_uris": [
-    "https://global.consent.azure-apim.net/redirect/cr675-5fmcp-20tableau-20com-20handmatig-5fe88312607b77cc68",
-    "https://tableau-oauth-proxy-production.up.railway.app/callback"
+    "https://global.consent.azure-apim.net/redirect/cr675-5fmcp-20tableau-20com-20handmatig-5fe88312607b77cc68"
   ],
   "grant_types": [
     "authorization_code",

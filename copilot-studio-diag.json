@@ -1,0 +1,16 @@
+{
+  "client_id": "https://hey-look-its-tim-dries.github.io/tableau-cimd/copilot-studio-diag.json",
+  "client_name": "Diagnostics (Biztory demo, temporary)",
+  "client_uri": "https://www.biztory.com",
+  "redirect_uris": [
+    "https://tableau-oauth-proxy-production.up.railway.app/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
