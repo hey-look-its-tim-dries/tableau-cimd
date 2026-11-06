@@ -4,7 +4,7 @@
   "client_uri": "https://www.biztory.com",
   "redirect_uris": [
     "https://global.consent.azure-apim.net/redirect/cr675-5fmcp-20tableau-20com-20handmatig-5fe88312607b77cc68",
-    "http://localhost:8765/callback"
+    "https://tableau-oauth-proxy-production.up.railway.app/callback"
   ],
   "grant_types": [
     "authorization_code",
